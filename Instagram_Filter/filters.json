@@ -1,0 +1,92 @@
+[
+    {
+        "filterName": "Normal",
+        "filterAction": "e00",
+        "filterType": 0,
+		"previewImage": "filterExampleNormal.png"
+    },
+    {
+        "filterName": "X-Pro II",
+        "filterType": 1,
+        "filterAction": "e01",
+		"previewImage": "filterExampleCrossProcess.png"
+    },
+    {
+        "filterName": "Lomo-fi",
+        "filterAction": "e02",
+        "filterType": 2,
+		"previewImage": "filterExampleLomo.png"
+    },
+    {
+        "filterName": "Earlybird",
+        "filterAction": "e03",
+        "filterType": 3,
+		"previewImage": "filterExampleVintageFilm.png"
+    },
+    {
+        "filterName": "Sutro",
+        "filterAction": "e04",
+        "filterType": 18,
+		"previewImage": "filterExampleSutro.png"
+    },
+    {
+        "filterName": "Toaster",
+        "filterAction": "e05",
+        "filterType": 19,
+		"previewImage": "filterExampleToaster.png"
+    },
+    {
+        "filterName": "Inkwell",
+        "filterAction": "e06",
+        "filterType": 10,
+		"previewImage": "filterExampleBW.png"
+    },
+    {
+        "filterName": "Walden",
+        "filterAction": "e07",
+        "filterType": 20,
+		"previewImage": "filterExampleWalden.png"
+    },
+    {
+        "filterName": "Hefe",
+        "filterAction": "e08",
+        "filterType": 21,
+		"previewImage": "filterExampleHefe.png"
+    },
+    {
+        "filterName": "Apollo",
+        "filterAction": "e09",
+        "filterType": 4,
+		"previewImage": "filterExampleLGM.png"
+    },
+    {
+        "filterName": "Poprocket",
+        "filterAction": "e10",
+        "filterType": 5,
+		"previewImage": "filterExamplePopRocks.png"
+    },	
+    {
+        "filterName": "Nashville",
+        "filterAction": "e11",
+        "filterType": 15,
+		"previewImage": "filterExampleNashville.png"
+    },
+    {
+        "filterName": "Gotham",
+        "filterAction": "e12",
+        "filterType": 13,
+		"previewImage": "filterExampleInky.png"
+    },
+    {
+        "filterName": "1977",
+        "filterAction": "e13",
+        "filterType": 14,
+		"previewImage": "filterExample1977.png"
+    },
+    {
+        "filterName": "Lord Kelvin",
+        "filterAction": "e14",
+        "filterType": 16,
+		"previewImage": "filterExampleLordKelvin.png"
+    }
+]

@@ -1,0 +1,88 @@
+// !$*UTF8*$!
+{
+	E4BC719D155A40210051F2CE /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F793B254157CD6D60097FEEE /* Instagram_Filter */;
+		activeTarget = E4BC71A5155A40210051F2CE /* Instagram_Filter */;
+		codeSenseManager = F793B25C157CD6DF0097FEEE /* Code sense */;
+		executables = (
+			F793B254157CD6D60097FEEE /* Instagram_Filter */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					643,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 360502998;
+			PBXWorkspaceStateSaveDate = 360502998;
+		};
+		sourceControlManager = F793B25B157CD6DF0097FEEE /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	E4BC71A5155A40210051F2CE /* Instagram_Filter */ = {
+		activeExec = 0;
+		executables = (
+			F793B254157CD6D60097FEEE /* Instagram_Filter */,
+		);
+	};
+	F793B254157CD6D60097FEEE /* Instagram_Filter */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Instagram_Filter;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	F793B25B157CD6DF0097FEEE /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F793B25C157CD6DF0097FEEE /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
